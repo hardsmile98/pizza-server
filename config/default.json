@@ -1,0 +1,10 @@
+{
+  "serverURL": "http://localhost:5000",
+  "clientURL": "http://localhost:3000",
+  "port": 5000,
+  "mongoUrl": "mongodb+srv://hardsmile98:kotelev01041998@cluster0.0q1yn.mongodb.net/shop?retryWrites=true&w=majority",
+  "confSecret": "x3E6g4$0Sot6&1hZ",
+  "tokenSecret": "5Fe%g3lrMx68D^zR",
+  "email": "testnodemailer211@gmail.com",
+  "password": "1Fu4i4jEqxO"
+}
